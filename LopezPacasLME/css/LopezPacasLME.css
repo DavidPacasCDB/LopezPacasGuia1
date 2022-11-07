@@ -1,0 +1,77 @@
+*{
+	margin:  0;
+	padding: 0;
+}
+
+header{
+	height: 150px;
+	width: 1350px;
+	padding: 17px 0 0 0;
+	position: relative;
+	background-color: lightskyblue;
+	margin-bottom: 25px;
+	font-family: sans-serif;
+	float: right;
+	margin-left: 20px;
+}
+
+header img{
+	float: left;
+	padding:10px;
+
+}
+
+header h1 a{
+	margin-right: 20px;
+	margin-bottom: ;
+}
+
+#Titulo{
+	text-align: center;
+	background-color: lightgreen;
+	margin-bottom: 20px;
+	height: 300px;
+	font-family: sans-serif;
+}
+
+.descripcion{
+	margin-left: 20px;
+	background-color: lightyellow;
+	width: 475px;
+	margin-bottom: 20px;
+	height: 400px;
+	margin-right: 20px;
+	align-items: center;
+	border-color: lightskyblue;
+	text-align: center;
+	margin-top: 20px;
+
+}
+
+video{
+	width: 750px;
+	float: left;
+	padding: 20px;
+	background-color: lightcoral;
+	margin-right: 50px;
+	margin-top: 30px;
+}
+
+.parte2{
+	background-color: lightsalmon;
+	width: 1350px;
+	height: 120px;
+	margin-bottom: 20px;
+	text-decoration: none;
+}
+
+/*intente ponerlo a la par del video pero no me funciono el float*/
+
+.offers{
+	background-color: lightsalmon;
+	width: 1350px;
+	height: 120px;
+	margin-bottom: 20px;
+	text-decoration: none;
+	padding: 30px;
+}
